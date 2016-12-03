@@ -15,5 +15,7 @@
     * [Tab](tab.md)
         * [disabled](disabled.md)
     * [TabPanel](tabpanel.md)
+        * [style](style.md)
+        * [className](classname.md)
 * [Examples](new-article.md)
 
