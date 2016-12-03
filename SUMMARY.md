@@ -11,5 +11,6 @@
     * [TabList](tablist.md)
         * [activeTabClassName](activetabclassname.md)
         * [disabledTabClassName](disabledtabclassname.md)
+        * [className](classname.md)
 * [Examples](new-article.md)
 

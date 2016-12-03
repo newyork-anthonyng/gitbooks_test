@@ -1,6 +1,6 @@
 ##`onSelect`
 
-Accepts a callback that is called whenever a tab is selected.
+Accepts a callback that is called whenever a `<Tab>` is selected.
 
 ####Arguments
 1. `cb` (_Function_): A function that is passed the **selected** tab index and the **last** tab index as arguments.
