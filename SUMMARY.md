@@ -12,5 +12,7 @@
         * [activeTabClassName](activetabclassname.md)
         * [disabledTabClassName](disabledtabclassname.md)
         * [className](classname.md)
+    * [Tab](tab.md)
+        * [disabled](disabled.md)
 * [Examples](new-article.md)
 

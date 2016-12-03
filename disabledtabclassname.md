@@ -10,8 +10,4 @@ A custom class name given to a `<Tab>` when it is disabled.
 <TabList disabledTabClassName="myDisabledClass" />
 ```
 
-A `<Tab>` can be disabled by settings its disabled property.
-```javascript
-<Tab>Mario</Tab>
-<Tab disabled={true}>Bowser</Tab>
-```
+A `<Tab>` can be disabled by settings its [`disabled`](/disabled.md) property to true.
