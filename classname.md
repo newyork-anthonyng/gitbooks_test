@@ -10,7 +10,6 @@ The class name to be added to the `<Tabs>`, `<TabsList>`, and `<TabPanel>` compo
   <Tabs className="bar">
     <Tab>1</Tab>
   </Tabs>
-  <TabPanel className="baz">One</TabPanel>
-
+  <TabPanel className="baz">One</TabPanel
 </TabList>
 ```
