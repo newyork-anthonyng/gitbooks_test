@@ -8,5 +8,7 @@
         * [forceRenderTabPanel](forcerendertabpanel.md)
         * [setUseDefaultStyles](setusedefaultstyles.md)
         * [className](classname.md)
+    * [TabList](tablist.md)
+        * [activeTabClassName](activetabclassname.md)
 * [Examples](new-article.md)
 
