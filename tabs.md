@@ -2,16 +2,12 @@
 
 A composite component that acts as the main container
 
+[`onSelect`](/onselect.md)
 
+[`selectedIndex`](/selectedIndex.md)
 
-##`setUseDefaultStyles(false)`
-You can disable the default styling of react-tabs by calling this static method once.
+[`forceRenderTabPanel`](/forceRenderTabPanel.md)
 
-####Example
-`Tabs.setUseDefaultStyles(false);`
+[`setUseDefaultStyles`](/setUseDefaultStyles.md)
 
-##`className`
-The class name to be added to the Tabs main component.
-
-####Example
-`<Tabs className="foobar" />`
+[`className`](/className.md)
