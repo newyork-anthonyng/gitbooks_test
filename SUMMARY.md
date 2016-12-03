@@ -14,5 +14,6 @@
         * [className](classname.md)
     * [Tab](tab.md)
         * [disabled](disabled.md)
+    * [TabPanel](tabpanel.md)
 * [Examples](new-article.md)
 
