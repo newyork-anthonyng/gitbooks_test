@@ -1,0 +1,27 @@
+{
+  "name": "gitbooks_test",
+  "version": "1.0.0",
+  "description": "`react-tabs` API Documentation",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-cli": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:prepare": "gitbook install",
+    "docs:watch": "npm run docs:prepare && gitbook serve",
+    "docs:build": "npm run docs:prepare && rm -rf _book && gitbook build",
+    "docs:publish": "npm run docs:build && cd _book && git init && git commit --allow-empty -m 'Update docs' && git checkout -b gh-pages && git add . && git commit -am 'Update docs' && git push git@github.com:newyork-anthonyng/gitbooks_test gh-pages --force"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newyork-anthonyng/gitbooks_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newyork-anthonyng/gitbooks_test/issues"
+  },
+  "homepage": "https://github.com/newyork-anthonyng/gitbooks_test#readme"
+}
